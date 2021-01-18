@@ -30,7 +30,7 @@ const sumit = {
     currentProject: "I am developing Argumented Reality with react native with help of react-viro"
 };
 ```
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. I like Competitive programming.  <br> <br>
+#### Always curious to learn cutting edge technology.  enthusiast towards web development. I like Competitive programming.  <br> <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumitsingh4411.sumitsingh4411) <br>
 
