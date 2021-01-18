@@ -1,7 +1,7 @@
 ## नमस्ते 🙏
 [![](https://img.shields.io/badge/LinkedIn-sumitsingh-blue)](https://www.linkedin.com/in/sumit-singh-81a73817a/)
 [![](https://img.shields.io/badge/Gmail-sumitsingh841208@gmail.com-red)](mailto:sumitsingh841208@gmail.com)
-[![](https://img.shields.io/badge/HackerRank-mega4411-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+[![](https://img.shields.io/badge/HackerRank-mega4411-brightgreen)](https://www.hackerrank.com/mega4411)
 [![](https://img.shields.io/badge/Codechef-mega4411-brown)](https://www.codechef.com/users/mega4411)
 [![](https://img.shields.io/badge/leetcode-mega4411-yellow)](https://leetcode.com/mega4411/)
 
