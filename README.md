@@ -36,10 +36,7 @@ const sumit = {
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumitsingh4411.sumitsingh4411)
-[![HitCount](http://hits.dwyl.com/sumitsingh4411/sumitsingh4411/sumitsingh4411.svg)](http://hits.dwyl.com/sumitsingh4411/sumitsingh4411/sumitsingh4411) <br>
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
 
