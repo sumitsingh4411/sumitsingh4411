@@ -11,7 +11,7 @@
 ```javascript
 const sumit = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "c++", "c", "Java", "python" ,"Solidity"],
+    code: ["Javascript", "c++", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         mobileApp: ["Android App", "Native App"],
@@ -21,10 +21,9 @@ const sumit = {
         },
         backEnd: {
             js: ["node", "express"], 
-            BlockChain
         },
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "php"]
+        databases: ["mongo"],
+        misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Argumented Reality with react native with help of react-viro"
