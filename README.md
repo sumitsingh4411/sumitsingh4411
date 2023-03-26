@@ -33,5 +33,3 @@ const sumit = {
 #### Always curious to learn cutting edge technology.  enthusiast towards web development. I like Competitive programming.  <br> <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sumitsingh4411.sumitsingh4411)
-
-⭐️ From [@sumitsingh4411](https://github.com/sumitsingh4411)
